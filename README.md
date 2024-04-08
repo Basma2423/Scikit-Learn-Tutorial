@@ -2,4 +2,4 @@
 
 [**Tutorial**](https://elitedatascience.com/python-machine-learning-tutorial-scikit-learn) by Elite Data Science website
 
-[**Dataset**](https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv)
+[**Dataset**](https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv) Wine Quality
